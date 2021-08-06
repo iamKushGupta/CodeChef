@@ -20,7 +20,7 @@ long long int bitwise_op(long long int x, long long int y) {
     }
 }
 
-int main(){
+int main() {
     int t;
     long long int N, M, beta;
     scanf("%d", &t);
